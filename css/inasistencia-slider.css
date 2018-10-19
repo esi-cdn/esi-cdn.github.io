@@ -4,8 +4,7 @@
     width: 100%;
     padding: 1% 1% 56.25% 1%; /*56.25 is for 16x9 resolution*/
 		border-radius:20px;
-    box-shadow: 0 0 20px rgba(0,0,0,0.6);
-  box-sizing:border-box;
+     box-sizing:border-box;
 }
 
 #slideshow > div { 
